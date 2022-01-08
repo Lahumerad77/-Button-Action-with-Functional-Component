@@ -8,7 +8,7 @@ function App() {
       <button id="click" onClick={function(){
         setShow(!show);
       }}>
-        Toggle P
+        para
       </button>
     {show ? (
         <p id="para">Hello, I've learnt to use the full-stack evaluation tool. This makes me so happy</p>
